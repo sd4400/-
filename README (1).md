@@ -1,6 +1,6 @@
 ﻿# 안녕하세요, 이정민입니다 👩‍💻
 
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=100&section=header&text=Hello&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=random&height=100&section=header&text=Hello&fontSize=60" />
 
 ## 👋 소개
 안녕하세요, 저는 **부산대학교**에서 공부하고 있는 **이정민**입니다. **물리화학**을 전공으로 하며, 관련 내용에 대해 공부하고 있습니다.
